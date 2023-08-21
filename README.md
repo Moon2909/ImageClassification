@@ -16,13 +16,13 @@ Support vector machines (SVM), Random Forest, eXtreme Gradient Boosting (XGBoost
 ## Dataset
 [Link Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
-![Dataset](https://github.com/Moon2909/ImageClassification/blob/main/dataset.png)
+![Dataset](https://github.com/Moon2909/ImageClassification/blob/main/Picture/dataset.png)
 
 ## Result
 - **Classification results on 6 models**
-![Result1a](https://github.com/Moon2909/ImageClassification/blob/main/Result1a.png)
+![Result1a](https://github.com/Moon2909/ImageClassification/blob/main/Picture/Result1a.png)
 
-![Result1b](https://github.com/Moon2909/ImageClassification/blob/main/Result1b.png)
+![Result1b](https://github.com/Moon2909/ImageClassification/blob/main/Picture/Result1b.png)
 
 
 - **Classification results on 6 models when using data balance methods (Measurement F1-score and Accuracy)**
